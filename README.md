@@ -2,6 +2,7 @@
 ### Bootcamp Blog
 
 *Week One*
+
 ![Image of Starting Line](https://media.istockphoto.com/vectors/-vector-id951162450?b=1&k=6&m=951162450&s=170667a&w=0&h=nLpj2M76eJC21hhQotVkCl_5u1VpYPY6N2W7kLOiCdY=)
 
 * Week One has been about what I expected. I anticipated that this class would be a lot to take in, given I hadn't done any programming in 10 years coming into this, and it has certainly not disappointed in that regard. I am thankful that my time at my previous full-time position has already ended so that I am able to focus all of my attention onto the bootcamp.
