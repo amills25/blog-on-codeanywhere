@@ -1,1 +1,9 @@
-here's where a bunch of cool ideas will go, that i need to think about.
+name
+title
+
+week one
+
+about what i expected, lots of into to take in
+excited to learn and grow in the right areas. animation, data, ux
+background in ministry and insurance
+i like my team-cal
