@@ -11,3 +11,14 @@
 
   * As Coach John Calipari always says:
     > *I like my team.*
+___
+
+### Bootcamp Blog
+
+*Week Two*
+
+![Image of HTML CSS JS logos](/img/htmlcssjs.png)
+
+* Question 1
+* Question 2
+* Question 3
