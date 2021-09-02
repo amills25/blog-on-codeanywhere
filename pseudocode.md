@@ -14,6 +14,8 @@ starting line image
 
 week two
 
+coding image
+
 -want to do data analysis and animation
 -struggling w/ html elements/attributes, what to use when
 -thankful to have great instructors/classmates to help. google is great. friends who are coders.
