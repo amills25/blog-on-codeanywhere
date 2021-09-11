@@ -19,3 +19,13 @@ coding image
 -want to do data analysis and animation
 -struggling w/ html elements/attributes, what to use when
 -thankful to have great instructors/classmates to help. google is great. friends who are coders.
+
+---
+
+week three
+
+three goggles image
+
+-really enjoy html and css, js will come with more practice
+-no html objects yet, just markdown, but look forward to incorporating html
+-i struggle with pseudocode now, but it'll be beneficial to get into it next week
