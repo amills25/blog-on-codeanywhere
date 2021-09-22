@@ -1,5 +1,8 @@
-name
-title
+H1 -- BOOTCAMP BLOG
+
+NAVBAR with links to each page
+
+--- (new container section for each post)
 
 week one
 
