@@ -45,6 +45,10 @@ footer {
 */
 
 .nav-link {
-    padding-left: 200px !important;
+    padding-left: 210px !important;
     padding-right: auto !important;
+}
+
+.border-dark {
+    border-color: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%) !important;
 }
